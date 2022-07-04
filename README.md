@@ -1,5 +1,6 @@
 # newsapp
 
+Es una app simple de noticias desarrollada en Flutter, consume una API de newsapi.org
 A new Flutter project.
 
 ## Getting Started
